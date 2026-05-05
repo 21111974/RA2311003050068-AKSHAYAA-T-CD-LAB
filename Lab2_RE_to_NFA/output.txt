@@ -1,0 +1,1 @@
+NFA constructed for: a|b
