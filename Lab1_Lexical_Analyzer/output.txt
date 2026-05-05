@@ -1,0 +1,12 @@
+int -> Keyword
+a -> Identifier
+= -> Operator
+5 -> Constant
+; -> Delimiter
+float -> Keyword
+b -> Identifier
+= -> Operator
+a -> Identifier
++ -> Operator
+10 -> Constant
+; -> Delimiter
